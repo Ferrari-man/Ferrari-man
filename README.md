@@ -2,7 +2,7 @@
 - 👀 I’m interested in formula one racing and learning everything about programming 
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me discord Ferrari man#4204
+- 📫 How to reach me discord ferrariman
 
 <!---
 Ferrari-man/Ferrari-man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
