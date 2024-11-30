@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ferrari-man
 - 👀 I’m interested in formula one racing and learning everything about programming 
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me discord ferrariman
 
